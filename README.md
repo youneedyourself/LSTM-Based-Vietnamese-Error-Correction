@@ -1,4 +1,4 @@
-# Bi-directional LSTM Vietnamese Spelling AutoCorrection
+# LSTM-Based-Vietnamese-Spell-Correction
 
 <p align="center">
   <img src="assets/fig_model_bilstm.png">
@@ -36,7 +36,7 @@ Example:
 
 Accuracy:
 <p align="center">
-  <img src="assets/fig_acc.png"width="541" height="141">
+  <img src="assets/fig_acc.png"width="541" height="41">
 </p>
 
 Compare to other model:
