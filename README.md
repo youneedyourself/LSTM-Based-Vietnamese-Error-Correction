@@ -31,17 +31,17 @@ We pruned the dataset to reduce training and testing time.
 
 Example:
 <p align="center">
-  <img src="assets/fig_architure_01.png">
+  <img src="assets/fig_example.png">
 </p>
 
 Accuracy:
 <p align="center">
-  <img src="assets/fig_acc.png"width="541" height="541">
+  <img src="assets/fig_acc.png"width="541" height="241">
 </p>
 
 Compare to other model:
 <p align="center">
-  <img src="assets/fig_compare.png"width="541" height="541">
+  <img src="assets/fig_compare.png"width="641" height="441">
 </p>
 
 ## References
