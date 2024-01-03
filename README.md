@@ -36,7 +36,7 @@ Example:
 
 Accuracy:
 <p align="center">
-  <img src="assets/fig_acc.png"width="541" height="41">
+  <img src="assets/fig_acc.png"width="441" height="141">
 </p>
 
 Compare to other model:
