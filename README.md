@@ -36,12 +36,12 @@ Example:
 
 Accuracy:
 <p align="center">
-  <img src="assets/fig_acc.png"width="541" height="241">
+  <img src="assets/fig_acc.png"width="541" height="141">
 </p>
 
 Compare to other model:
 <p align="center">
-  <img src="assets/fig_compare.png"width="641" height="441">
+  <img src="assets/fig_compare.png"width="641" height="341">
 </p>
 
 ## References
