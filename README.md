@@ -27,6 +27,23 @@ We pruned the dataset to reduce training and testing time.
   <img src="assets/fig_bilstm_01.png"width="541" height="541">
 </p>
 
+## Results
+
+Example:
+<p align="center">
+  <img src="assets/fig_architure_01.png">
+</p>
+
+Accuracy:
+<p align="center">
+  <img src="assets/fig_acc.png"width="541" height="541">
+</p>
+
+Compare to other model:
+<p align="center">
+  <img src="assets/fig_compare.png"width="541" height="541">
+</p>
+
 ## References
 * Nguyen Thi Xuan Huong; Dang; The Tung Nguyen; Anh Cuong Le;. Using large n-gram for vietnamese spell checking. 2015
 * Nguyen Hua Phung; Thuan D. Ngo; Dung A. Phan; Thu P.T Dinh; Thang Q. Huynh.Vietnamese spelling detection and correction using bi-gram, minimum edit distance,soundex algorithms with some additional heuristics. 2008
