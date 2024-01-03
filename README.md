@@ -1,4 +1,4 @@
-# LSTM-Based-Vietnamese-Spell-Correction
+# LSTM-Based-Vietnamese-Error-Correction
 
 <p align="center">
   <img src="assets/fig_model_bilstm.png">
