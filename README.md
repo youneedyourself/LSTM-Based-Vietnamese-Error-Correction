@@ -13,12 +13,12 @@ We pruned the dataset to reduce training and testing time.
 
 ## Project Architecture
 <p align="center">
-  <img src="C:\Users\Admin\Documents\GitHub\LSTM-Based-Vietnamese-Error-Correction\assets\fig_architure_01.png">
+  <img src="assets/fig_architure_01.png">
 </p>
 
 ## Model WorkFlow
 <p align="center">
-  <img src="C:\Users\Admin\Documents\GitHub\LSTM-Based-Vietnamese-Error-Correction\assets\fig_bilstm_01.png"width="541" height="541">
+  <img src="assets/fig_bilstm_01.png"width="541" height="541">
 </p>
 
 ## References
