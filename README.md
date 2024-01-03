@@ -1,4 +1,10 @@
 # Bi-directional LSTM Vietnamese Spelling AutoCorrection
+
+<p align="center">
+  <img src="assets/fig_model_bilstm.png">
+</p>
+
+## Abstract
  By using Bi-directional LSTM, this project creates a neural network NLP model that can corrects Vietnamese spelling error with the accuracy up to 94.5%
 
  This project was carried out by 3 students from Hue University of Sciences: Nguyen Ngoc Quang Huy, Ly Nhat Phuong, and Nguyen Hoai Nam.
